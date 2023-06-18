@@ -1,0 +1,44 @@
+%YAML 1.2
+---
+
+siesta:
+  version: "4.1.5"
+  arch: "unknown"
+  compiler: "GNU Fortran (GCC) 9.4.0"
+  fflags: "mpifort -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protectorr-strong -fno-plt -O2 -ffunction-sections -pipe"
+  fppflags: "-DFC_HAVE_ABORT -DCDF -DMPI -DSIESTA__MRRR -DNCDF -DNCDF_4"
+  libs: "libncdf.a libfdict.a -lscalapack -llapack -lblas -lnetcdff -lnetcdf -lhdf5_hll -lhdf5 -lz"
+  build: "mpi"
+  openmp: "no"
+  gemm3m: "no"
+  netcdf: "yes"
+  netcdf4: "yes"
+  netcdf4_mpi: "no"
+  metis: "no"
+  chess: "no"
+  elpa: "no"
+  flook: "no"
+  pexsi: "no"
+
+energies:
+  Ebs:          -0.26818634E+02
+  Eions:           0.16394267E+03
+  Ena:           0.22725652E+02
+  Ekin:           0.78380715E+02
+  Enl:          -0.19215888E+02
+  Eso:           0.00000000E+00
+  Edftu:           0.00000000E+00
+  DEna:          -0.10567876E-01
+  DUscf:           0.17605597E+00
+  DUext:           0.00000000E+00
+  Exc:          -0.33422244E+02
+  Ecorrec:           0.00000000E+00
+  Emadel:           0.00000000E+00
+  Emeta:           0.00000000E+00
+  Emolmec:           0.00000000E+00
+  Ekinion:           0.78109063E+00
+  Eharris:          -0.11452785E+03
+  Etot:          -0.11452785E+03
+  FreeEng:          -0.11452785E+03
+
+...
