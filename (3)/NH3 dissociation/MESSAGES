@@ -1,0 +1,23 @@
+INFO: Gamma-point calculation with multiply-connected orbital pairs
+INFO: Folding of H and S implicitly performed
+INFO: Gamma-point calculation with multiply-connected orbital pairs
+INFO: Folding of H and S implicitly performed
+INFO: Gamma-point calculation with multiply-connected orbital pairs
+INFO: Folding of H and S implicitly performed
+INFO: Gamma-point calculation with multiply-connected orbital pairs
+INFO: Folding of H and S implicitly performed
+INFO: Gamma-point calculation with multiply-connected orbital pairs
+INFO: Folding of H and S implicitly performed
+INFO: Gamma-point calculation with multiply-connected orbital pairs
+INFO: Folding of H and S implicitly performed
+INFO: Gamma-point calculation with multiply-connected orbital pairs
+INFO: Folding of H and S implicitly performed
+INFO: Gamma-point calculation with multiply-connected orbital pairs
+INFO: Folding of H and S implicitly performed
+INFO: Gamma-point calculation with multiply-connected orbital pairs
+INFO: Folding of H and S implicitly performed
+INFO: Gamma-point calculation with multiply-connected orbital pairs
+INFO: Folding of H and S implicitly performed
+FATAL: SCF_NOT_CONV: SCF did not converge in maximum number of steps (required).
+ (info): Geom step, scf iteration, dmax:   12   150    0.479477
+FATAL: ABNORMAL_TERMINATION
