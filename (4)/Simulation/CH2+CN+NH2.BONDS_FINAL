@@ -1,0 +1,48 @@
+Neighbors of:     1 C at:   0.3493 -1.1028  0.0000
+    2 H                     1.4631  Ang. Really at:   0.4270 -2.2187  2.5285
+    3 H                     1.4631  Ang. Really at:   0.4270 -2.2187 -2.5285
+    7 C                     1.7045  Ang. Really at:  -2.8658 -0.9074 -0.0000
+    4 N                     1.7971  Ang. Really at:   3.1272  0.8507 -0.0000
+    5 H                     2.3913  Ang. Really at:   3.4204  1.1813 -2.4024
+    6 H                     2.3913  Ang. Really at:   3.4204  1.1813  2.4024
+    8 N                     2.5592  Ang. Really at:  -4.3460 -2.2616  0.0000
+Neighbors of:     2 H at:   0.4270 -2.2187  2.5285
+    1 C                     1.4631  Ang. Really at:   0.3493 -1.1028  0.0000
+    7 C                     2.3039  Ang. Really at:  -2.8658 -0.9074 -0.0000
+    6 H                     2.3981  Ang. Really at:   3.4204  1.1813  2.4024
+    4 N                     2.5437  Ang. Really at:   3.1272  0.8507 -0.0000
+    3 H                     2.6761  Ang. Really at:   0.4270 -2.2187 -2.5285
+    8 N                     2.8584  Ang. Really at:  -4.3460 -2.2616  0.0000
+Neighbors of:     3 H at:   0.4270 -2.2187 -2.5285
+    1 C                     1.4631  Ang. Really at:   0.3493 -1.1028  0.0000
+    7 C                     2.3039  Ang. Really at:  -2.8658 -0.9074 -0.0000
+    5 H                     2.3981  Ang. Really at:   3.4204  1.1813 -2.4024
+    4 N                     2.5437  Ang. Really at:   3.1272  0.8507 -0.0000
+    2 H                     2.6761  Ang. Really at:   0.4270 -2.2187  2.5285
+    8 N                     2.8584  Ang. Really at:  -4.3460 -2.2616  0.0000
+Neighbors of:     4 N at:   3.1272  0.8507 -0.0000
+    5 H                     1.2926  Ang. Really at:   3.4204  1.1813 -2.4024
+    6 H                     1.2926  Ang. Really at:   3.4204  1.1813  2.4024
+    1 C                     1.7971  Ang. Really at:   0.3493 -1.1028  0.0000
+    2 H                     2.5437  Ang. Really at:   0.4270 -2.2187  2.5285
+    3 H                     2.5437  Ang. Really at:   0.4270 -2.2187 -2.5285
+Neighbors of:     5 H at:   3.4204  1.1813 -2.4024
+    4 N                     1.2926  Ang. Really at:   3.1272  0.8507 -0.0000
+    1 C                     2.3913  Ang. Really at:   0.3493 -1.1028  0.0000
+    3 H                     2.3981  Ang. Really at:   0.4270 -2.2187 -2.5285
+    6 H                     2.5425  Ang. Really at:   3.4204  1.1813  2.4024
+Neighbors of:     6 H at:   3.4204  1.1813  2.4024
+    4 N                     1.2926  Ang. Really at:   3.1272  0.8507 -0.0000
+    1 C                     2.3913  Ang. Really at:   0.3493 -1.1028  0.0000
+    2 H                     2.3981  Ang. Really at:   0.4270 -2.2187  2.5285
+    5 H                     2.5425  Ang. Really at:   3.4204  1.1813 -2.4024
+Neighbors of:     7 C at:  -2.8658 -0.9074 -0.0000
+    8 N                     1.0617  Ang. Really at:  -4.3460 -2.2616  0.0000
+    1 C                     1.7045  Ang. Really at:   0.3493 -1.1028  0.0000
+    3 H                     2.3039  Ang. Really at:   0.4270 -2.2187 -2.5285
+    2 H                     2.3039  Ang. Really at:   0.4270 -2.2187  2.5285
+Neighbors of:     8 N at:  -4.3460 -2.2616  0.0000
+    7 C                     1.0617  Ang. Really at:  -2.8658 -0.9074 -0.0000
+    1 C                     2.5592  Ang. Really at:   0.3493 -1.1028  0.0000
+    3 H                     2.8584  Ang. Really at:   0.4270 -2.2187 -2.5285
+    2 H                     2.8584  Ang. Really at:   0.4270 -2.2187  2.5285
